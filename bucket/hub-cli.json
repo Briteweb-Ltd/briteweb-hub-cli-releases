@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases/releases/download/v0.1.0/hub-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "hub-cli.exe"
+            ],
+            "hash": "ecf8ace19a7bd8ce47f9ac03061b03684c1eda5c227156d6c032fee1a5d923e3"
+        },
+        "arm64": {
+            "url": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases/releases/download/v0.1.0/hub-cli_0.1.0_windows_arm64.zip",
+            "bin": [
+                "hub-cli.exe"
+            ],
+            "hash": "d0599005753ac3a5e2ffc3fb57c408cbb31c7aa2427c4a9f917082bf07d24042"
+        }
+    },
+    "homepage": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases",
+    "license": "Proprietary",
+    "description": "Command-line client for the Briteweb Hub"
+}
