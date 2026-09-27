@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases/releases/download/v0.1.0/hub-cli_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases/releases/download/v0.2.0/hub-cli_0.2.0_windows_amd64.zip",
             "bin": [
                 "hub-cli.exe"
             ],
-            "hash": "ecf8ace19a7bd8ce47f9ac03061b03684c1eda5c227156d6c032fee1a5d923e3"
+            "hash": "ba75d694124ee1a8422e1423a437dd8fdb1122f2358acf014f24f5679a1dc154"
         },
         "arm64": {
-            "url": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases/releases/download/v0.1.0/hub-cli_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases/releases/download/v0.2.0/hub-cli_0.2.0_windows_arm64.zip",
             "bin": [
                 "hub-cli.exe"
             ],
-            "hash": "d0599005753ac3a5e2ffc3fb57c408cbb31c7aa2427c4a9f917082bf07d24042"
+            "hash": "2d786c92e277bf055888fc6f6c366be106855a0315bd0304fad5465eadb0b648"
         }
     },
     "homepage": "https://github.com/Briteweb-Ltd/briteweb-hub-cli-releases",
